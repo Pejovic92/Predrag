@@ -1,0 +1,4 @@
+Kompanija: HTEC
+Mesto: Beograd
+Radno Mesto: Full-stack dev
+Radi od: 2019
