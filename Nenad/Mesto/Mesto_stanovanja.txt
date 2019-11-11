@@ -1,0 +1,4 @@
+Mesto rodjenja: Ivanjica
+Mesto stanovanja: Beograd
+Dodajemo ovo u stavku develop
+Dodajem u dev grani
